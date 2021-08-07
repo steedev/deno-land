@@ -2,6 +2,6 @@
 
 ## Guides
 
-- [`Intro`](/guides/01_Intro.md)
+- [`Foundation`](/guides/01_Foundation.md)
 - [`---`](/guides)
 - [`---`](/guides)
