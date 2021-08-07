@@ -1,8 +1,8 @@
-## Deno Foundation
+# Deno Foundation
 
 ![img_1.png](img_1.png)
 
-## How it works
+# How it works
 
 ![img.png](img.png)
 
@@ -23,7 +23,6 @@ const food = Deno.args[0]
 
 `Deno Javascript and Deno Rust`
 ```
-~/Documents/stee/deno-land/01_Foundations (main) 🐻
 $ deno run deno.js 'love'
 🦕...Deno is born!
 ┌─────────────────────────┬────────┐

@@ -1,2 +1,2 @@
-const a: string = 'Stee'
+const a: string = "Stee"
 console.log(a)
