@@ -8,4 +8,6 @@
   - [`code`](/02_DenoVsNode/deno-something)
 - [`Deno Modules`](/guides/03_DenoModules.md)
   - [`code`](/03_DenoModules)
+- [`Deno Files`](/guides/04_DenoFiles.md)
+  - [`code`](/04_DenoFiles)
 - 

@@ -62,7 +62,7 @@ deno upgrade
 ```
 
 ## Entry file of the app
-`mod.ts` is a rust convention and `main` file
+`mod.js` is a rust convention and `main` file
 
 ## Deno is entire system
 
